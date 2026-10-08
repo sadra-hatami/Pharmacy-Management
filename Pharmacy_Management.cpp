@@ -1,11 +1,3 @@
-// Pharmacy Management System - C++//
-
-// Developed By:  Md. Saifuddin Tipu  //
-
-// Brought To You By code-projects.org //
-
-//Standard Library
-
 #include <iostream>
 #include <stdlib.h>
 #include <string>
